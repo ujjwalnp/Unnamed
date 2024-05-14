@@ -26,12 +26,7 @@ Unnamed is a MERN (MongoDB, Express.js, React.js, Node.js) stack-backed product 
 - As an admin user, you can perform CRUD operations on products.
 
 ## Contributing
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature-name`).
-3. Commit your changes (`git commit -am 'Add some feature'`).
-4. Push to the branch (`git push origin feature/your-feature-name`).
-5. Submit a pull request.
+Contributions are welcome! If you'd like to contribute to this project, read the [Contributing Guidelines](CONTRIBUTING.md)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
