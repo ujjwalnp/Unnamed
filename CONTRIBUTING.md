@@ -1,14 +1,14 @@
-# Contributing to [Project Name]
+# Contributing to Unnamed
 
-Thank you for considering contributing to [Project Name]! We welcome contributions from everyone, whether it's a bug report, feature suggestion, or code contribution. By participating in this project, you agree to abide by our [Code of Conduct](CODE_OF_CONDUCT.md).
+Thank you for considering contributing to Unnamed! We welcome contributions from everyone, whether it's a bug report, feature suggestion, or code contribution. By participating in this project, you agree to abide by our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Ways to Contribute
 
-There are several ways you can contribute to [Project Name]:
+There are several ways you can contribute to Unnamed:
 
-1. **Reporting Bugs**: If you encounter any issues or unexpected behavior, please [open a new issue](https://github.com/yourusername/projectname/issues/new) and provide as much detail as possible, including steps to reproduce the problem.
+1. **Reporting Bugs**: If you encounter any issues or unexpected behavior, please [open a new issue](https://github.com/ujjwalnp/unnamed/issues/new) and provide as much detail as possible, including steps to reproduce the problem.
 
-2. **Feature Requests**: Have an idea for a new feature? Feel free to [submit a feature request](https://github.com/yourusername/projectname/issues/new) outlining your suggestion. We'd love to hear your thoughts!
+2. **Feature Requests**: Have an idea for a new feature? Feel free to [submit a feature request](https://github.com/ujjwalnp/unnamed/issues/new) outlining your suggestion. We'd love to hear your thoughts!
 
 3. **Code Contributions**: If you're interested in fixing bugs or implementing new features yourself, fork the repository and submit a pull request. Please ensure that your code follows our coding standards and include relevant tests if applicable.
 
@@ -18,7 +18,7 @@ There are several ways you can contribute to [Project Name]:
 
 If you're new to contributing to open source projects, you can start by:
 
-- Checking out our [open issues](https://github.com/yourusername/projectname/issues) and picking one to work on.
+- Checking out our [open issues](https://github.com/ujjwalnp/unnamed/issues) and picking one to work on.
 - Forking the repository and setting up your development environment.
 - Making your changes, following the guidelines outlined in our [Code of Conduct](CODE_OF_CONDUCT.md) and this document.
 - Submitting a pull request with your changes.
@@ -29,6 +29,6 @@ We expect all contributors to adhere to our [Code of Conduct](CODE_OF_CONDUCT.md
 
 ## Questions
 
-If you have any questions or need further clarification, feel free to reach out to us by [opening an issue](https://github.com/yourusername/projectname/issues/new) or contacting [maintainer name or email].
+If you have any questions or need further clarification, feel free to reach out to us by [opening an issue](https://github.com/ujjwalnp/unnamed/issues/new) or contacting [maintainer name or email].
 
-Thank you for your interest in contributing to [Project Name]!
+Thank you for your interest in contributing to Unnamed!
