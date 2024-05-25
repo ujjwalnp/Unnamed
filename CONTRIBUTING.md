@@ -29,6 +29,6 @@ We expect all contributors to adhere to our [Code of Conduct](CODE_OF_CONDUCT.md
 
 ## Questions
 
-If you have any questions or need further clarification, feel free to reach out to us by [opening an issue](https://github.com/ujjwalnp/unnamed/issues/new) or contacting [maintainer name or email].
+If you have any questions or need further clarification, feel free to reach out to us by [opening an issue](https://github.com/ujjwalnp/unnamed/issues/new) or contacting [ujjwalnp]().
 
 Thank you for your interest in contributing to Unnamed!
