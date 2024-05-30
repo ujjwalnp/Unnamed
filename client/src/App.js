@@ -6,6 +6,7 @@ import AdminDashboard from './pages/admin/adminDashboard';
 import HomePage from './pages/customer/homePage';
 import Error from './pages/Error';
 
+
 function App() {
   return (
     <div className="App">

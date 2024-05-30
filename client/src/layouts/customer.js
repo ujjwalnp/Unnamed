@@ -6,7 +6,7 @@ import Footer from '../components/customer/footer';
 
 function customer(props) {
     return (
-        <div>
+        <div className='md:pl-20 md:pr-20'>
            <Header />
            <Outlet />
            <Footer />
