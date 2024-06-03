@@ -54,7 +54,7 @@ function homePage(props) {
            {products.map((product, index) => {
         return (
           <ProductCard
-            key={index}
+            index={index}
             src={product.src}
             alt={product.alt}
             title={product.title}
